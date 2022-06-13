@@ -1,1 +1,1 @@
-# Rock_Paper_Scissors
+# A simple RockPaperScissors game using python code.
